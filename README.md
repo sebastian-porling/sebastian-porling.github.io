@@ -43,6 +43,7 @@ and standard applications made with Java or Objective-C. I, together with
 another student have developed studies with both end-customers where they have compared an application that
 has been developed with these tools to find a difference in the user experience. I have also 
 conducted a case study at the IT-consultant company Slagkryssaren AB which meets their requirements for a development tool.
+The report can be found at DiVa: [diva2:1449825](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1449825&dswid=5665).
 
 The Multi-Criteria Decision-Making tool can be found here:
 
