@@ -1,9 +1,9 @@
 ## :point_right: About
 
-I add a lot emphasis on my creativity in problem solving, product use and
-personal projects. The biggest interests at the moment are in security and
-user experience. I'm driven by exploring different perspectives to present it
-best product for end.users, owners and other parties.
+I add a lot of emphasis on my creativity in problem-solving, product-usage, and
+personal projects. The greatest interests at the moment are in security and
+user experience. I'm driven by exploring different perspectives to present the
+best product for end-users, owners, and other parties.
 
 
 ## :mortar_board: Education 
@@ -28,7 +28,7 @@ programming. In the IT specialization, I had to work a lot with Java, web and mo
 
 **Fullstack-Developer in Java & Javascript, Experis Sweden**
 
-Junior Fullstack-developer at Experis Sweden, with the first months with their education program called Experis Academy.
+Fullstack-developer at Experis Sweden, with the first months with their education program called Experis Academy.
 Experis Academy started with the purpose to meet the needs in the current market, based on the needs and requirements needed in system development. By finding the candidates with a good academic background and personal qualification have Experis with the help of Experis Academy educated these even further, with their bespoke intensive course with the focus in fullstack programming and Java. The program is based on methods like accelerated learning and the education consists of a combination of both theoretical and practical exercises. The education is 3 months and the consultant is studying full-time. After completed education the consultant will be certified in Oracle Java SE 8 Programmer 1. The education consists of the following technologies: Java 8, Spring, Scrum, ReactJS, AngularJS, NodeJS, Bootstrap 4, HTML5, CSS, Javascript 101, Apache Tomcat, REST, SOAP.
 
 
